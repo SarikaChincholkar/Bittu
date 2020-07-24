@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+      <class name="Anu.ayush.SeleniumTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Anu.ayush.SeleniumTest@31dc339b]" name="test1" duration-ms="1" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Anu.ayush.SeleniumTest@31dc339b]" name="test2" duration-ms="0" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Anu.ayush.SeleniumTest -->
+      <class name="Anu.ayush.RestAPITest">
+        <test-method status="PASS" signature="test5()[pri:0, instance:Anu.ayush.RestAPITest@3c0f93f1]" name="test5" duration-ms="7" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:Anu.ayush.RestAPITest@3c0f93f1]" name="test6" duration-ms="2" started-at="2020-06-26T09:58:09 IST" finished-at="2020-06-26T09:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- Anu.ayush.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
